@@ -1,2 +1,2 @@
-# snailshell.github.io
+# snail shell
 snail shell
